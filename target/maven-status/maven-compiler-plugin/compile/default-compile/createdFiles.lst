@@ -1,0 +1,8 @@
+factory\entites\Animal.class
+factory\AbstractFactory.class
+factory\entites\Chat.class
+factory\entites\Chien.class
+factory\ChienFactory.class
+factory\AnimalFactory.class
+factory\MainFactory.class
+factory\ChatFactory.class
